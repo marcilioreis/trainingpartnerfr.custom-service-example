@@ -27,16 +27,5 @@
       }
     }
   ],
-  "billingOptions": {
-    "type": "free",
-    "availableCountries": [
-      "*"
-    ],
-    "support": {
-      "url": "https://frncomunicacao.com.br",
-      "email": "matheus.bronca@frncubo.com",
-      "phone": "+5562984546866"
-    }
-  },
   "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
 }
