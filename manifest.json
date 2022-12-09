@@ -1,7 +1,7 @@
 {
   "vendor": "trainingpartnerfr",
   "name": "custom-app-example",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Customized Application Example",
   "description": "A didactic application that shows the various possibilities that a custom vtex IO application is capable of delivering",
   "builders": {
