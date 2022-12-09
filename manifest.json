@@ -2,8 +2,8 @@
   "vendor": "trainingpartnerfr",
   "name": "custom-app-example",
   "version": "0.0.1",
-  "title": "Total Items Available",
-  "description": "Returns the total number of items available in the store stock",
+  "title": "Customized Application Example",
+  "description": "A didactic application that shows the various possibilities that a custom vtex IO application is capable of delivering",
   "builders": {
     "react": "3.x",
     "messages": "1.x",
